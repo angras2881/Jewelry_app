@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Kundan Jhumkas",
+    "category": "Earrings",
+    "price": 45.00,
+    "material": "Gold-plated Alloy",
+    "description": "Elegant Kundan jhumkas with handcrafted stonework.",
+    "images": ["images/earrings/kundan-jhumkas.jpg"]
+  },
+  {
+    "name": "Temple Earrings",
+    "category": "Earrings",
+    "price": 38.00,
+    "material": "Copper with gold polish",
+    "description": "Traditional temple jewelry style earrings.",
+    "images": ["images/earrings/temple-earrings.jpg"]
+  },
+  {
+    "name": "Pearl Drop Earrings",
+    "category": "Earrings",
+    "price": 30.00,
+    "material": "Pearls and brass",
+    "description": "Elegant pearl earrings suitable for all occasions.",
+    "images": ["images/earrings/pearl-drop.jpg"]
+  },
+  {
+    "name": "Gold Bangles Set",
+    "category": "Bangles",
+    "price": 55.00,
+    "material": "Brass with gold plating",
+    "description": "A set of four intricately designed gold bangles.",
+    "images": ["images/bangles/gold-bangles.jpg"]
+  },
+  {
+    "name": "Meenakari Bangles",
+    "category": "Bangles",
+    "price": 40.00,
+    "material": "Meenakari enamel on metal",
+    "description": "Colorful Meenakari work bangles.",
+    "images": ["images/bangles/meenakari.jpg"]
+  },
+  {
+    "name": "Antique Bangles",
+    "category": "Bangles",
+    "price": 48.00,
+    "material": "Antique gold finish",
+    "description": "Vintage style bangles with embossed motifs.",
+    "images": ["images/bangles/antique-bangles.jpg"]
+  },
+  {
+    "name": "Polki Necklace",
+    "category": "Necklaces",
+    "price": 75.00,
+    "material": "Polki stones and alloy",
+    "description": "Heavy Polki necklace for wedding occasions.",
+    "images": ["images/necklaces/polki.jpg"]
+  },
+  {
+    "name": "Pearl Choker",
+    "category": "Necklaces",
+    "price": 65.00,
+    "material": "Pearls with kundan work",
+    "description": "Elegant pearl choker necklace.",
+    "images": ["images/necklaces/pearl-choker.jpg"]
+  },
+  {
+    "name": "Gold Plated Long Necklace",
+    "category": "Necklaces",
+    "price": 80.00,
+    "material": "Gold-plated metal",
+    "description": "Traditional long necklace with intricate designs.",
+    "images": ["images/necklaces/gold-long.jpg"]
+  }
+]
