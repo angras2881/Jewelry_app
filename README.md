@@ -32,6 +32,6 @@ This is a dynamic e-commerce web application built with React, simulating an onl
 * **Shopping Cart:** Add, remove, and update quantities of items in the cart.
 * **Search & Filter:** Search for products by name and filter by category or price range.
 * **Responsive Design:** Optimized for seamless viewing and interaction across various devices (desktop, tablet, mobile).
-* **Checkout Process:** (Simulated or actual payment integration - specify) A step-by-step process for order finalization.
+* **Checkout Proces
 * **User Profile:** (Optional) Basic user profile management.
 * 
