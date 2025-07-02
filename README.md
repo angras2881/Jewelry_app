@@ -11,7 +11,7 @@ This is a dynamic e-commerce web application built with React, simulating an onl
     * **JavaScript (ES6+):** Core programming language.
     * **Tailwind CSS:** For efficient and responsive styling.
     * **React Router DOM:** For client-side routing and navigation.
-    * [Add your state management library, e.g., React Context API, Redux, Zustand]
+    
 
 * **Backend
     * **Node.js:** Runtime environment for the server-side logic.
@@ -20,7 +20,6 @@ This is a dynamic e-commerce web application built with React, simulating an onl
 
 * **Testing & Development Tools:**
     * **Manual Testing:** Comprehensive functional, UI, and responsiveness testing.
-    * **Jira:** (Mention if you used it for project management/bug tracking even for this personal project, simulating a real-world scenario)
     * **Git:** Version control.
     * **GitHub:** Repository hosting.
     * 
@@ -30,8 +29,8 @@ This is a dynamic e-commerce web application built with React, simulating an onl
 * **Product Catalog:** Browse a list of jewelry products with images, descriptions, and prices.
 * **Product Details:** View individual product details on a dedicated page.
 * **Shopping Cart:** Add, remove, and update quantities of items in the cart.
-* **Search & Filter:** Search for products by name and filter by category or price range.
+* **Search & Filter:** Search for products by name
 * **Responsive Design:** Optimized for seamless viewing and interaction across various devices (desktop, tablet, mobile).
-* **Checkout Proces
-* **User Profile:** (Optional) Basic user profile management.
+* **Checkout Process
+* **User Profile:** 
 * 
